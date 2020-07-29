@@ -1,4 +1,5 @@
 <?php
+
 function tentukan_deret_geometri($arr) {
 $cek=[];
 $hasil=[];
