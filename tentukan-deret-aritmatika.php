@@ -8,7 +8,7 @@ for($i=1; $i<count($arr)-1; $i++){
         $hasil= "false"; }
     $cek="true";
 }
-if($cek==$hasil){echo "true"
+if($cek==$hasil){echo "true";
 } else {
     echo "false";}
 }
